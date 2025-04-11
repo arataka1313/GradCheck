@@ -1,0 +1,16 @@
+[
+    { "code": "知能101", "name": "プログラミング演習Ⅰ", "credits": 1 },
+    { "code": "工共100", "name": "工学基礎演習", "credits": 2 },
+    { "code": "工共301", "name": "キャリアデザイン", "credits": 2 },
+    { "code": "工共111", "name": "工業数学Ⅰ", "credits": 2 },
+    { "code": "知能103", "name": "離散数学", "credits": 2 },
+    { "code": "知能204", "name": "情報ネットワークⅠ", "credits": 2 },
+    { "code": "健01", "name": "スポーツ科学", "credits": 2 },
+    { "code": "外101", "name": "大学英語Ⅰ", "credits": 4 },
+    { "code": "外102", "name": "大学英語Ⅱ", "credits": 2 },
+    { "code": "人01", "name": "哲学と倫理", "credits": 2 },
+    { "code": "社01", "name": "社会と法", "credits": 2 },
+    { "code": "総01", "name": "環境問題を考える", "credits": 2 },
+    { "code": "先11", "name": "微積分Ⅰ", "credits": 2 }
+  ]
+  
