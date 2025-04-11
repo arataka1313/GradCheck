@@ -1,4 +1,5 @@
 # GradCheck 🎓✅
+![Python CI](https://github.com/arataka1313/GradCheck/actions/workflows/python-ci.yml/badge.svg)
 
 > 「卒業、あと何単位？」を一発チェック。  
 > 履修漏れゼロを目指す、大学生のための卒業要件チェッカー。
