@@ -18,7 +18,7 @@
 
 ## 🎯 ターゲット
 
-- 卒業要件が複雑すぎて不安な大学生（特に3〜4年生）
+- 琉球大学工学部工学科知能情報コース4年生(2022年度入学学生)
 - 毎年「履修ミスで留年」する友達を見て不安な人
 - 教務やTAとして履修相談を受ける立場の人
 
@@ -54,10 +54,9 @@
 
 ## 🙌 コントリビューション歓迎！
 
-「うちの大学の卒業要件も対応して！」  
+「うちの大学・学科の卒業要件も対応して！」
+「ここまちがってるぞ!」  
 「UI手伝いたい！」などなど大歓迎です🎉  
-
-教育のデジタル化、履修支援に貢献しよう💪
 
 ---
 
@@ -72,30 +71,3 @@ MIT License
 GradCheck開発者  Taka(B4)
 [@arataka1313](https://github.com/arataka1313)  
 琉球大学 知能情報コースB4（卒業予定 2026/3）
-
-## 📂 卒業要件JSON（例）
-
-```json
-{
-  "total_required_credits": 130,
-  "required_courses": [
-    { "name": "情報倫理", "credits": 2 },
-    { "name": "卒業研究Ⅰ", "credits": 2 }
-  ],
-  "general_education": {
-    "minimum_conditions": {
-      "社会系_or_自然系": {
-        "options": ["社会系", "自然系"],
-        "required_credits": 2
-      },
-      "総合領域": {
-        "options": ["総合科目", "キャリア関係科目", "琉大特色・地域創生科目"],
-        "required_credits": 2
-      }
-    },
-    "total_combined_required_credits": {
-      "categories": ["人文系", "社会系", "自然系", "総合科目", "キャリア関係科目", "琉大特色・地域創生科目"],
-      "required_credits": 14
-    }
-  }
-}
