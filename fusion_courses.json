@@ -1,0 +1,55 @@
+{
+    "fusion_course_condition": {
+      "type": "or_group_requirement",
+      "options": [
+        {
+          "group_name": "導入科目",
+          "required_credits": 4,
+          "courses": [
+            { "code": "機械991", "name": "材料生産工学概論", "credits": 2 },
+            { "code": "機械992", "name": "熱流体工学概論", "credits": 2 },
+            { "code": "エネ991", "name": "エネルギー変換工学基礎", "credits": 2 },
+            { "code": "エネ992", "name": "環境エネルギー工学概論", "credits": 2 },
+            { "code": "電気991", "name": "電気電子工学基礎", "credits": 2 },
+            { "code": "電気992", "name": "メカトロニクス", "credits": 2 },
+            { "code": "電情991", "name": "電気電子工学基礎", "credits": 2 },
+            { "code": "電情992", "name": "通信工学概論", "credits": 2 },
+            { "code": "社基991", "name": "基礎流体力学", "credits": 2 },
+            { "code": "社基992", "name": "橋設計論", "credits": 2 },
+            { "code": "社基993", "name": "島嶼環境計画論", "credits": 2 },
+            { "code": "社基994", "name": "道路交通計画", "credits": 2 },
+            { "code": "社基995", "name": "海底資源工学", "credits": 2 },
+            { "code": "社基996", "name": "地震工学", "credits": 2 },
+            { "code": "社基997", "name": "都市地域計画", "credits": 2 },
+            { "code": "建築991", "name": "居住建築概論", "credits": 2 }
+          ]
+        },
+        {
+          "group_name": "選択科目",
+          "required_credits": 4,
+          "courses": [
+            { "code": "機械981", "name": "機器構造学", "credits": 2 },
+            { "code": "機械982", "name": "亜熱帯材料学", "credits": 2 },
+            { "code": "機械983", "name": "流体機械学", "credits": 2 },
+            { "code": "エネ981", "name": "エネルギー移動工学", "credits": 2 },
+            { "code": "エネ982", "name": "腐食防食工学", "credits": 2 },
+            { "code": "エネ983", "name": "熱機関工学", "credits": 2 },
+            { "code": "電気981", "name": "パワーエレクトロニクス", "credits": 2 },
+            { "code": "電気983", "name": "電気機器Ⅰ", "credits": 2 },
+            { "code": "電情981", "name": "電気電子計測工学I", "credits": 2 },
+            { "code": "電情983", "name": "量子力学Ⅰ", "credits": 2 },
+            { "code": "社基981", "name": "プロジェクトマネジメント", "credits": 2 },
+            { "code": "社基982", "name": "維持管理工学", "credits": 2 },
+            { "code": "社基983", "name": "腐食防食と疲労", "credits": 2 },
+            { "code": "社基984", "name": "減災計画", "credits": 2 },
+            { "code": "社基985", "name": "環境衛生工学", "credits": 2 },
+            { "code": "社基986", "name": "火薬学", "credits": 2 },
+            { "code": "建築982", "name": "都市デザイン演習", "credits": 2 },
+            { "code": "建築983", "name": "耐震設計概論", "credits": 2 },
+            { "code": "建築984", "name": "都市および地方計画", "credits": 2 }
+          ]
+        }
+      ]
+    }
+  }
+  
