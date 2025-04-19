@@ -172,5 +172,5 @@ if __name__ == "__main__":
         "general_courses.json",
         "fusion_courses.json",
         "clasify.json",
-        "my_courses.json"
+        "data/my_courses.json"
     )
