@@ -161,7 +161,7 @@ def check_graduation(
         print(f"【不合格】専門合算37単位未満（{合算37}単位）")
 
     if not not_passed:
-        print("🎉【合格】すべての条件を満たしています！")
+        print("【合格】すべての条件を満たしています！")
 
     return not not_passed
 
